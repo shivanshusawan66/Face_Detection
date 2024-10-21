@@ -1,10 +1,13 @@
-# Face Recognition Application
-Download the setup > install it > Open Face_Detection.exe 
-ENJOY!!!
+## Installation
+1. **Download the setup file** from the https://github.com/shivanshusawan66/Face_Detection
+2. **Run the setup file**:
+   - Double-click on the `setup.exe` file.
+   - Follow the installation prompts to complete the installation.
+3. **Launch the application** from the Start Menu or your desktop shortcut.
 
 ## Features
-
 - **Face Capture**: Capture and store images of users.
 - **Face Detection**: Automatically detect and recognize faces in images.
 - **User-Friendly UI**: Built with CustomTkinter for a modern look.
-- **Data Management**: Reset dataset functionality for easy management.
+- **Data Management**: Reset dataset functionality with confirmation warnings.
+- **Setup File**: Easily install the application using a single setup file.
