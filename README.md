@@ -1,7 +1,7 @@
 ## Installation
 1. **Download the setup file** from the https://github.com/shivanshusawan66/Face_Detection
 2. **Run the setup file**:
-   - Double-click on the `setup.exe` file.
+   - Double-click on the `Face_Recognition.exe` file.
    - Follow the installation prompts to complete the installation.
 3. **Launch the application** from the Start Menu or your desktop shortcut.
 
